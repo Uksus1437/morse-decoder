@@ -1,0 +1,13 @@
+*.pt
+
+*.xlsx
+
+*.csv
+
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+morse_model_epoch{epoch}.pt
+morse_model.pt
